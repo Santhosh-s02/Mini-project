@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container1 {
+    background-image: url(https://images.pexels.com/photos/11254904/pexels-photo-11254904.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.display-1 {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.font{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.image1{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-1;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-1{
+    0%{
+        background-image: url("https://images.pexels.com/photos/15289412/pexels-photo-15289412/free-photo-of-a-pigeon-is-standing-on-a-stone-floor.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/19890507/pexels-photo-19890507/free-photo-of-an-alligator-is-swimming-in-the-water.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/28712857/pexels-photo-28712857/free-photo-of-majestic-owl-perched-on-post-in-profile.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.image2{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-2;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-2{
+    0%{
+        background-image: url("https://images.pexels.com/photos/29060626/pexels-photo-29060626/free-photo-of-elegant-portrait-of-a-woman-in-nigerian-fashion.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/29060628/pexels-photo-29060628/free-photo-of-elegant-nigerian-woman-in-vibrant-traditional-attire.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/29060624/pexels-photo-29060624/free-photo-of-elegant-nigerian-woman-in-traditional-attire.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.image3{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-3;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-3{
+    0%{
+        background-image: url("https://images.pexels.com/photos/29040383/pexels-photo-29040383/free-photo-of-golden-retriever-enjoying-nature-by-riverside.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/29040380/pexels-photo-29040380/free-photo-of-australian-shepherd-enjoying-outdoor-adventure.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/29040381/pexels-photo-29040381/free-photo-of-australian-shepherd-outdoors-in-nature.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.image4{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-4;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-4{
+    0%{
+        background-image: url("https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/18379358/pexels-photo-18379358/free-photo-of-little-baby-with-a-balloon.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.image5{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-5;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-5{
+    0%{
+        background-image: url("https://images.pexels.com/photos/29070271/pexels-photo-29070271/free-photo-of-cozy-christmas-morning-with-festive-decor.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/6119581/pexels-photo-6119581.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/6129297/pexels-photo-6129297.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.image6{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    animation-name: i-6;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes i-6{
+    0%{
+        background-image: url("https://images.pexels.com/photos/3204950/pexels-photo-3204950.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    50%{
+        background-image: url("https://images.pexels.com/photos/1122407/pexels-photo-1122407.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+    100%{
+        background-image: url("https://images.pexels.com/photos/1929611/pexels-photo-1929611.jpeg?auto=compress&cs=tinysrgb&w=400");
+    }
+}
+
+.font1{
+   
+        font-family: "Arizonia", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+.courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
